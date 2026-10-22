@@ -103,6 +103,6 @@ Python y pandas, Git y GitHub, GitHub Codespaces, Databricks Free Edition, GLM (
 
 | Integrante | Rol |
 |---|---|
-| Integrante 1 | Coordinación, datos y normalización |
+| Diego | Coordinación, datos y normalización |
 | Cristofer | Nube y consultas en Databricks |
 | Juan | IA y reproducibilidad |
